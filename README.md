@@ -14,9 +14,9 @@
    
 - 👯 I’m looking to collaborate on
 
-      More cloud projects, and learning more about concurrency
+      More cloud projects, and learning more about concurrency, iot and event-driven development have my interest too.
 
 
 - 📫 How to reach me:  
     
-     inkedin [profile](https://www.linkedin.com/in/kiquetal)
+     [Linkedin](https://www.linkedin.com/in/kiquetal)
