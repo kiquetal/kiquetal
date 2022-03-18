@@ -1,16 +1,22 @@
-### Hi there 👋
+### Brief Description about me.
 
-<!--
-**kiquetal/kiquetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Enrique, programmer and volunteer firefighter 👨‍🚒 🇵🇾.
+  
+- 🔭 I’m currently working on cloud projects
+    
+      aws cdk
+      serverless framework
+      vertx
+      
+- 🌱 I’m currently learning 
 
-Here are some ideas to get you started:
+      kubernetes, docker, containers, kotlin, typescript, python
+   
+- 👯 I’m looking to collaborate on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      More cloud projects, and learning more about concurrency
+
+
+- 📫 How to reach me:  
+    
+     inkedin [profile](https://www.linkedin.com/in/kiquetal)
