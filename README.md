@@ -13,7 +13,7 @@
       
 - 🌱 I’m currently learning 
 
-      kubernetes, docker, containers, kotlin,iot, mqtt, reactive systems.
+      kubernetes, docker, containers, kotlin,iot, mqtt, reactive systems, functional programming
    
 - 👯 I’m looking to collaborate on
 
