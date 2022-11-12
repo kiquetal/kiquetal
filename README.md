@@ -25,7 +25,7 @@
   <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100">
   </span></a>
   <a href="https://www.credly.com/badges/8c48b9da-e30a-4b82-9f73-7a28fd2ed766"><span>
-  <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="100">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100">
   </span></a>
   
 - 📫 How to reach me:  
