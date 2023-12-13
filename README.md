@@ -27,7 +27,8 @@
   <a href="https://www.credly.com/badges/8c48b9da-e30a-4b82-9f73-7a28fd2ed766"><span>
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100">
   </span></a>
-  
+  <span><a href="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100">
+  </span></a>
 - 📫 How to reach me:  
     
      [Linkedin](https://www.linkedin.com/in/kiquetal)
