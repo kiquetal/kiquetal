@@ -30,7 +30,7 @@
   <a href="https://www.credly.com/badges/7e7c873d-5da7-4712-8f2c-449e72b9cc37"><span>
           <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100"/>
   </span></a>
-  <a href="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16"><span>
+  <a href="https://www.credly.com/badges/43d5b811-fe13-4537-afa5-95a382a2b0ff"><span>
   <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="100"/>
   </span></a>
 - 📫 How to reach me:  
