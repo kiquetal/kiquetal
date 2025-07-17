@@ -34,7 +34,7 @@
   <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="100"/>
   </span></a>
   <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/369e88c3-6163-4f51-8dde-ba745153189b/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/369e88c3-6163-4f51-8dde-ba745153189b/thumbnail" width="200px" height="100px" >
 </p>
 - 📫 How to reach me:  
     
