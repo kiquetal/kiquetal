@@ -32,10 +32,7 @@
   </span></a>
   <a href="https://www.credly.com/badges/43d5b811-fe13-4537-afa5-95a382a2b0ff"><span>
   <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="100"/>
-  </span></a>
-  <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/369e88c3-6163-4f51-8dde-ba745153189b/thumbnail" width="200px" height="100px" >
-</p>
+  </span></a><span>  <img src="https://api.boot.dev/v1/users/public/369e88c3-6163-4f51-8dde-ba745153189b/thumbnail" width="200px" height="100px" /></span>
 - 📫 How to reach me:  
     
      [Linkedin](https://www.linkedin.com/in/kiquetal)
