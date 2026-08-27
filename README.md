@@ -20,7 +20,7 @@
       More cloud projects, and learning more about concurrency, iot and event-driven development have my interest too.
 
 - Badges:
-<p>
+
  <span>
 <a href="https://www.credly.com/badges/bdc303aa-0a59-4481-b344-441f7c977ed8"/>
   <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100">
