@@ -19,7 +19,7 @@
 
       More cloud projects, and learning more about concurrency, iot and event-driven development have my interest too.
 
-- Badges:<br/>  <div style="display: flex; gap: 8px; align-items: center;">
+- Badges:<br/>    <p>
     <a href="https://www.credly.com/badges/bdc303aa-0a59-4481-b344-441f7c977ed8"><img
   src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/ima
   ge.png" width="100"></a>
@@ -35,7 +35,8 @@
     <a href="https://www.credly.com/badges/43d5b811-fe13-4537-afa5-95a382a2b0ff"><img
   src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blo
   b" width="100"></a>
-  </div><span>  <img src="https://api.boot.dev/v1/users/public/369e88c3-6163-4f51-8dde-ba745153189b/thumbnail" width="200px" height="100px" /></span>
+  </p>
+<span>  <img src="https://api.boot.dev/v1/users/public/369e88c3-6163-4f51-8dde-ba745153189b/thumbnail" width="200px" height="100px" /></span>
 - 📫 How to reach me:  
     
      [Linkedin](https://www.linkedin.com/in/kiquetal)
